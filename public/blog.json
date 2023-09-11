@@ -1,0 +1,42 @@
+[
+    {
+      "id": 1,
+      "cover": "https://i.ibb.co/f0bQCgj/1.jpg",
+      "title": "Lorem Ipsum",
+      "author": "John Doe",
+      "author_img": "https://example.com/johndoe.jpg",
+      "posted_date": "2023-09-09",
+      "reading_time": 10,
+      "hash_tags": ["fiction", "Lorem", "Ipsum"]
+    },
+    {
+      "id": 2,
+      "cover": "https://i.ibb.co/HX6xm4L/2.png",
+      "title": "Sample Article",
+      "author": "Jane Doe",
+      "author_img": "https://example.com/janedoe.jpg",
+      "posted_date": "2023-09-08",
+      "reading_time": 8,
+      "hash_tags": ["sample", "article"]
+    },
+    {
+      "id": 3,
+      "cover": "https://i.ibb.co/QbyqLJB/3.png",
+      "title": "Random Thoughts",
+      "author": "Alex Smith",
+      "author_img": "https://example.com/alexsmith.jpg",
+      "posted_date": "2023-09-07",
+      "reading_time": 12,
+      "hash_tags": ["random", "thoughts"]
+    },
+    {
+      "id": 4,
+      "cover": "https://i.ibb.co/DzFHwfJ/4.jpg",
+      "title": "Tech Trends",
+      "author": "Chris Johnson",
+      "author_img": "https://example.com/chrisjohnson.jpg",
+      "posted_date": "2023-09-06",
+      "reading_time": 15,
+      "hash_tags": ["tech", "trends"]
+    }
+  ]
